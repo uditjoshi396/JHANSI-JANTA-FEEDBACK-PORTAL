@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import AIChatbot from '../components/AIChatbot';
 
 function Dashboard() {
   const [grievances, setGrievances] = useState([]);
@@ -483,6 +484,9 @@ function Dashboard() {
           </div>
         </div>
       )}
+
+      {/* AI Chatbot */}
+      <AIChatbot />
     </div>
   );
 }
