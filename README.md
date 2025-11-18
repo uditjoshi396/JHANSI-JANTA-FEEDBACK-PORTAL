@@ -1,4 +1,8 @@
-# 🗳️ Janata Feedback Portal
+# JHANSI-JANTA-FEEDBACK-PORTAL
+
+> > > > > > > # origin/main
+
+# 🗳️ JHANSI-JANTA-FEEDBACK-PORTAL
 
 A comprehensive grievance management system built with React, Node.js, Express, and MongoDB. This platform allows citizens to submit grievances, track their status, and enables government officials to manage and resolve issues efficiently.
 
@@ -54,7 +58,7 @@ node interactive_setup.js
 1. **Clone and navigate to the project**
 
    ```bash
-   cd janata-feedback-portal
+   cd jhansi-janta-feedback-portal
    ```
 
 2. **Setup Server**
@@ -122,7 +126,7 @@ INSTAGRAM_CALLBACK_URL=http://localhost:5000/api/auth/instagram/callback
 ## 🏗️ Project Structure
 
 ```
-janata-feedback-portal/
+jhansi-janta-feedback-portal/
 ├── client/                 # React frontend
 │   ├── public/
 │   ├── src/
@@ -234,4 +238,8 @@ For support, email support@janatafeedback.com or join our Discord community.
 
 ---
 
-**Made with ❤️ for better governance and citizen engagement**
+# **Made with ❤️ for better governance and citizen engagement**
+
+# JHANSI-JANTA-FEEDBACK-PORTAL
+
+> > > > > > > origin/main
